@@ -75,8 +75,8 @@ header {
 
 /* btn styles  */
 .btngod {
-    border-radius: 30%;
-    padding : 10px 15px;
+    border-radius: 500px;
+    padding : 8px 15px ;
     color:#fff;
     border: 1px solid #fff;
     font-size: 10px;
